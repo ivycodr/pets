@@ -17,6 +17,6 @@ class Pet {
 
 }
 
-const p1 = new Pet("Fido", "Dog", "Brown");
-Pet.addToArray(p1);
+module.exports = Pet;
+
 
